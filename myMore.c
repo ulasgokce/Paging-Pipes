@@ -8,7 +8,6 @@
 
 int main(int argc, char *argv[])
 {
-
     int read_exit = atoi(argv[1]);
     char read_msg[MAXIMUM_LINE_NUMBER][BUFFER_SIZE];
 
