@@ -1,4 +1,4 @@
-# Uyuyan Berber
+# Paging Pipes
 ![GitHub Logo](https://i.hizliresim.com/GfquvA.png)
 # Nasıl Çalışır
 Terminal programını açıp 
