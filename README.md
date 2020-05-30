@@ -1,5 +1,5 @@
 # Paging Pipes
-![GitHub Logo](https://lh6.googleusercontent.com/4Pnfa1d5JxNvqeiSRH0zMmxw8l3CpCRUGe9g8pqtbG9SE2XA4xFYgDJN38uHzpjy3OxsFEwaWyanNroD1wYf=w4096-h2338-rw)
+![GitHub Logo](https://r.resimlink.com/SNXyF.png)
 # Nasıl Çalışır
 Terminal programını açıp 
 ```sh
